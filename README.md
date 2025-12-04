@@ -1,9 +1,9 @@
 # Grove-Vision-AI-Module-V2-Project
 List of my personal Grove Vision AI Module V2 Project<br><br>
 #### Flash Grove Vision AI Module
-- Connect Grove Vision AI Module to Camera and connect to your computer vis USB cable, <br>
+- Connect Grove Vision AI Module to Camera and connect to your computer vis USB cable,
 ![](Asset/grove-vision-ai-module-v2.gif)
-- Open [Sense Craft AI Tool Kit](https://seeed-studio.github.io/SenseCraft-Web-Toolkit/#/setup/process) in your browser and Select Grove Vision AI V2 on top-right corner,
+- Open [Sense Craft AI Tool Kit](https://seeed-studio.github.io/SenseCraft-Web-Toolkit/#/setup/process) in your browser and Select Grove Vision AI V2 on top-right corner, 
 ![](Asset/scai-1.png)
 - Choose connected device (COM Port),
 ![](Asset/scai-2.png)
