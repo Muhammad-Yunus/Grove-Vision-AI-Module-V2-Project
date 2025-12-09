@@ -13,7 +13,7 @@ List of my personal Grove Vision AI Module V2 Project<br><br>
  Documentation](https://wiki.seeedstudio.com/grove_vision_ai_v2a/)
 ### Flash SSCMA Viewer
 - I made several option to view inference result from Grove Vision AI V2,
-#### M5Stick C Plus
+#### M5Cardputer
 - Open `M5Cardputer_Inference_SSCMA/` in Arduino IDE, 
 - Connect M5Cardputer to your computer via USB cable,
 - Set target board and port in Arduino IDE,
